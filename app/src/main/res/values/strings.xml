@@ -7,5 +7,14 @@
     <string name="select_temperature">TemperatureSelect</string>
     <string name="convert">Convert</string>
     <string name="results">Results</string>
+    <string-array name="convert_option">
+        <item>°C to °F</item>
+        <item>°C to °K</item>
+        <item>°F to °C</item>
+        <item>°F to °K</item>
+        <item>°K to °C</item>
+        <item>°K to °F</item>
+    </string-array>
+
 
 </resources>
